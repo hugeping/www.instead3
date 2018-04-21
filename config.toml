@@ -1,0 +1,89 @@
+DefaultContentLanguage = "ru"
+baseURL = "http://instead-hub.github.io"
+copyright = "&copy; 2009-2018"
+enableGitInfo = false
+languageCode = "en-us"
+paginate = 4
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+summaryLength = 20
+theme = "smorg"
+
+[author]
+email = "gl00my@mail.ru"
+name = "Peter Kosyh"
+
+[languages]
+
+[languages.en]
+title = "INSTEAD"
+
+[languages.en.params]
+description = ""
+footer = "Автор <a href=\"http://syscall.ru/\">Петр Косых</a>"
+fullname = "Simple Text Adventures, The Interpretor"
+logotype = "<span class=\"has-text-weight-bold\">IN<span class=\"has-text-danger\">STEAD</span>3</span>"
+subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/instead-hub/instead\">github.com/instead-hub/instead</a>"
+
+[languages.ru]
+title = "INSTEAD"
+languageCode = "ru"
+
+[languages.ru.params]
+description = ""
+footer = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/instead-hub/instead\">github.com/instead-hub/instead</a>"
+fullname = "Интерпретатор текстографических приключений"
+logotype = "<span class=\"has-text-weight-bold\">IN<span class=\"has-text-danger\">STEAD</span>3</span>"
+subfooter = "Автор <a href=\"http://syscall.ru/\">Петр Косых</a>"
+
+[mediaTypes]
+
+[mediaTypes."application/atom"]
+suffix = "xml"
+
+[menu]
+
+[[menu.sectionmenu]]
+name = "About"
+url ='#about'
+weight = 10
+
+[[menu.sectionmenu]]
+name = "Download"
+url = "#download"
+weight = 20
+
+[[menu.sectionmenu]]
+name = "Doc"
+url = "#doc"
+weight = 30
+
+[outputFormats]
+
+[outputFormats.Atom]
+baseName = "atom"
+mediaType = "application/atom"
+
+[outputFormats.RSS]
+baseName = "rss"
+mediaType = "application/rss"
+
+[outputs]
+home = ["HTML", "Atom", "RSS"]
+
+[params]
+favicon = true
+cssPath = "css/smorg.css"
+debug = false
+description = "160 characters or less describing you or your organization or your site's purpose."
+footer = "An open source theme by <a href=\"https://mikewatkins.ca/\">Mike Watkins</a>"
+fullname = "Your Full Or Organization Name"
+logotype = "<span class=\"has-text-weight-bold\">hugo-<span class=\"has-text-danger\">smorg</span></span>"
+only_feed_summaries = true
+subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/solutionroute/hugo-smorg\">github.com/solutionroute/hugo-smorg</a>"
+
+[params.publisher]
+logo = "url to logo image"
+name = "Name of organization or person"
+type = "Organization"

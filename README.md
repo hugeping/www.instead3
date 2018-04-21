@@ -1,2 +1,1 @@
-# www.instead3
-INSTEAD3 web site
+# instead-hub.github.io-instead

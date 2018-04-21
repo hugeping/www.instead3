@@ -1,0 +1,57 @@
+[Posts]
+other = "Blog"
+
+[Articles]
+other = "Articles"
+
+[Pages]
+other = "Pages"
+
+[More]
+other = "More"
+
+[Continue]
+other = "Continue reading"
+
+[words]
+other = "words"
+
+[Posted]
+other = "Posted"
+
+[About]
+other = "About"
+
+[Download]
+other = "Download"
+
+[Doc]
+other = "Documentation"
+
+
+[instead-others]
+other = "Others"
+
+[instead-win]
+other = "Installer for Windows (.exe file)"
+
+[instead-win-zip]
+other = "Archive for Windows (unpack and run)"
+
+[instead-android-market]
+other = "INSTEAD on Android Market"
+
+[instead-ubuntu]
+other = "PPA repository for Ubuntu"
+
+[instead-sources]
+other = "Sources"
+
+[instead-osx]
+other = "OS X"
+
+[tagged-with]
+other = "with tag(s)"
+
+[in]
+other = "in"

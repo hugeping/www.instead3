@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{- if $.Site.Params.debug }}<p class="has-text-danger">DEBUG: layouts/_default/single.html</p>{{ end -}}
+
+<section class="section" itemscope itemtype="http://schema.org/WebPage">
+	<div class="container">
+		<div class="columns">
+			<div class="column is-8 is-offset-2">
+				<article class="content">
+					<h1 class="title is-3">{{ .Title }}</h1>
+					<p class="subtitle is-6 has-text-grey"><em>
+						{{- partial "page-meta.html" . -}}</em></p>
+					{{- partial "page-status.html" . -}}
+					{{- .Content }}
+					{{- partial "page-author.html" . -}}
+{{if .Params.disqus }}
+<div class="block">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      var disqus_shortname = "instead"; 
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+</div>
+{{end }}
+				</article>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}

@@ -1,0 +1,62 @@
+[Posts]
+other = "Блог"
+
+[Articles]
+other = "Статьи"
+
+[Pages]
+other = "Страницы"
+
+[More]
+other = "Еще"
+
+[Continue]
+other = "Дальше"
+
+[words]
+other = "слов"
+
+[Previous]
+other = "Сюда"
+
+[Next]
+other = "Туда"
+
+[Posted]
+other = "Опубликовано"
+
+[About]
+other = "О проекте"
+
+[Download]
+other = "Скачать"
+
+[Doc]
+other = "Авторам"
+
+[instead-others]
+other = "Другие пакеты"
+
+[instead-win]
+other = "Установщих для Windows (.exe файл)"
+
+[instead-win-zip]
+other = "Архив для Windows (распаковать и запустить)"
+
+[instead-android-market]
+other = "INSTEAD на Android Market"
+
+[instead-ubuntu]
+other = "PPA репозиторий для Ubuntu"
+
+[instead-sources]
+other = "Исходный код"
+
+[instead-osx]
+other = "Версия для OSX"
+
+[tagged-with]
+other = "тег(и)"
+
+[in]
+other = "раздел(ы)"
