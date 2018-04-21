@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/instead-hub/www.git
+	branch = master
