@@ -3,9 +3,11 @@
 		<div class="container">
 			<div class="navbar-brand">
 				{{ if eq .Site.LanguageCode "ru" }}
-				    <a id="en-lang" class="navbar-item" href="/en"><img alt="en" src="/img/en.png"></a> 
-				{{ else }}
+				    <a id="en-lang" class="navbar-item" style="padding:0" href="/en"><img alt="en" src="/img/en.png"></a>
 				    <a class="navbar-item" id="ru-lang" href="/"><img alt="ru" src="/img/ru.png"></a>
+				{{ else }}
+				    <a class="navbar-item" id="ru-lang" style="padding:0"  href="/"><img alt="ru" src="/img/ru.png"></a>
+				    <a id="en-lang" class="navbar-item" href="/en"><img alt="en" src="/img/en.png"></a>
 				{{ end }}
 				<a class="navbar-item has-text-white-ter" href="{{ "/" | absLangURL }}">{{- partial "logo.html" . -}}</a>
 				<div class="navbar-burger burger" data-target="navMenu">
