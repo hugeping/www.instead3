@@ -7,7 +7,7 @@ date: 2017-03-09T13:23:28+08:00
 
 You may transfer some money for hosting. Thank you!
 
-<div style="width: 320px; overflow-x: visible">
+<div style="width: 0; overflow-x: visible">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="MULGU3ERFRBSS">
