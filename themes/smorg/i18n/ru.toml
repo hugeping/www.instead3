@@ -60,3 +60,6 @@ other = "тег(и)"
 
 [in]
 other = "раздел(ы)"
+
+[author]
+other = "Автор: "

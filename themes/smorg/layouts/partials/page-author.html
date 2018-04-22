@@ -1,3 +1,4 @@
 {{ with .Params.author }}
-by {{ . }}
+{{ i18n "author" }} {{ . }}
 {{ end }}
+<br>

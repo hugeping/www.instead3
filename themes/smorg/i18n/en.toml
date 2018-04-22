@@ -55,3 +55,6 @@ other = "with tag(s)"
 
 [in]
 other = "in"
+
+[author]
+other = "Author: "
