@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How to download and run game?
+date: 2018-04-22 00:50:00
 disqus: y
 ---
 
