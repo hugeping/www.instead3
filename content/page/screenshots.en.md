@@ -45,3 +45,5 @@ Here is some screenshots.
 > "Lode Runner" -- ZX-Spectrum classic.
 
 - - -
+
+See also: [How to download and run game?](/page/games/)
