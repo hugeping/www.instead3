@@ -1,6 +1,7 @@
 ---
 layout: page
 title: INSTEAD Клуб
+disqus: y
 ---
 ## Добро пожаловать!
 

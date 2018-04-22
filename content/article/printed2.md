@@ -3,6 +3,7 @@ tags:
 - printed
 title: ПРИНТЕД 2
 date: 2015-04-01 00:00:00
+disqus: y
 ---
 1 апреля 2015 г.  
 http://instead.syscall.ru

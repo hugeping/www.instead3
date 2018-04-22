@@ -3,6 +3,7 @@ tags:
 - printed
 title: ПРИНТЕД 4
 date: 2017-11-04 00:00:00
+disqus: y
 ---
 
 4 ноября 2017 г.  
