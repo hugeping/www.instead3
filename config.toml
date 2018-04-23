@@ -21,10 +21,10 @@ title = "INSTEAD"
 
 [languages.en.params]
 description = ""
-footer = "Автор <a href=\"http://syscall.ru/\">Петр Косых</a>"
-fullname = "Simple Text Adventures, The Interpretor"
+footer = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/instead-hub/instead\">github.com/instead-hub/instead</a>"
+fullname = "Simple Text Adventures, The Interpreter"
 logotype = "<span class=\"has-text-weight-bold\">IN<span class=\"has-text-danger\">STEAD</span>3</span>"
-subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/instead-hub/instead\">github.com/instead-hub/instead</a>"
+subfooter = "Author <a href=\"http://syscall.ru/\">Peter Kosyh</a>"
 
 [languages.ru]
 title = "INSTEAD"
