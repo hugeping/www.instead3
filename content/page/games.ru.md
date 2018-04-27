@@ -33,6 +33,6 @@ disqus: y
 ### Воспользоваться INSTEADMAN3
 
 INSTEADMAN3 -- программа автоматической установки и запуска игр из сети.
-Вы можете скачать ее со страницы проекта: [https://github.com/jhekasoft/insteadman3](https://github.com/jhekasoft/insteadman3)
+Вы можете скачать ее со страницы проекта: [http://jhekasoft.github.io/insteadman/beta](http://jhekasoft.github.io/insteadman/beta)
 
 ![insteadman3](img/insteadman3.png)

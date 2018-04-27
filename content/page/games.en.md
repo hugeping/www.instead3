@@ -29,6 +29,6 @@ Also, you can just unpack zip file with game in the directory with INSTEAD games
 ### INSTEADMAN3
 
 INSTEADMAN3 -- program that can automatically download and run games.
-You can download it here: [https://github.com/jhekasoft/insteadman3](https://github.com/jhekasoft/insteadman3)
+You can download it here: [https://github.com/jhekasoft/insteadman3/releases](https://github.com/jhekasoft/insteadman3/releases)
 
 ![insteadman3](img/insteadman3.png)
