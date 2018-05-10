@@ -36,3 +36,4 @@ INSTEADMAN3 -- программа автоматической установк�
 Вы можете скачать ее со страницы проекта: [http://jhekasoft.github.io/insteadman/](http://jhekasoft.github.io/insteadman/)
 
 ![insteadman3](img/insteadman3.png)
+ 
