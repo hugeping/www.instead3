@@ -10,7 +10,7 @@ disqus: y
 
 Для общения, вы можете использовать веб интерфейс: [club.syscall.ru](http://club.syscall.ru)
 
-А также, вы можете воспользоваться [caesium](https://github.com/spline1986/caesium) и читать/писать сообщения прямо из вашего Unix.
+А также, вы можете воспользоваться [caesium](https://github.com/idec-net/caesium) и читать/писать сообщения прямо из вашего Unix.
 
 Эхи узла, которые посвящены INSTEAD:
 
