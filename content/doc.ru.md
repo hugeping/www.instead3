@@ -10,7 +10,7 @@ date: 2017-03-09T13:23:28+08:00
 Документация для разработчиков игр поставляется вместе с дистрибутивом INSTEAD в соответствующем
 каталоге (doc/).
 
-* [Документация](https://github.com/instead-hub/instead/blob/master/doc/stead3.md)
+* [Документация](https://github.com/instead-hub/instead/blob/master/doc/stead3-ru.md)
 * [Документация (pdf)](http://club.syscall.ru/s/download/stead3.pdf)
 * [Чат в gitter](https://gitter.im/instead-hub/instead)
 * [Багтрекер](https://github.com/instead-hub/instead/issues)
