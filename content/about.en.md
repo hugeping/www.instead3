@@ -6,7 +6,7 @@ date: 2017-03-09T13:19:25+08:00
 
 INSTEAD was designed to make the textographic games.
 
-This games are mix of _interactive ficrtion, visual novels and classic point & click adventures_.
+These games are mix of _interactive fiction, visual novels and classic point & click adventures_.
 
 _Adventure begins!_
 
