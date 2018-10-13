@@ -33,7 +33,7 @@ __МЕТАПАСРЕР3__ (далее, МП3) -- [модуль](https://github.c
 
 - [Статья "Другой Марс: парсер в 2018 году"](https://gamin.me/posts/19616)
 - [Игра Другой Марс на itch.io](https://instead.itch.io/mars)
-- [Документация](https://github.com/instead-hub/stead3-modules/blob/master/metaparser/manual.md)
+- [Документация](https://github.com/instead-hub/stead3-modules/blob/master/metaparser/doc/manual-ru.md)
 - [Исходный код](https://github.com/instead-hub/stead3-modules/tree/master/metaparser)
 
 ## Стабильные версии
