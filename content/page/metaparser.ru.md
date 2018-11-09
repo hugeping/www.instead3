@@ -38,5 +38,5 @@ __МЕТАПАСРЕР3__ (далее, МП3) -- [модуль](https://github.c
 
 ## Стабильные версии
 
-- [Версия 0.91](http://instead.syscall.ru/instead/metaparser/metaparser-0.91.zip)
+- [Версия 0.92](http://instead.syscall.ru/instead/metaparser/metaparser-0.92.zip)
 - [Документация в PDF](http://club.syscall.ru/s/download//metaparser3-ru.pdf)
