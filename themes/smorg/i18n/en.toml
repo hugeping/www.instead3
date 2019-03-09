@@ -50,6 +50,9 @@ other = "Sources"
 [instead-osx]
 other = "OS X"
 
+[instead-android]
+other = "Android"
+
 [tagged-with]
 other = "with tag(s)"
 

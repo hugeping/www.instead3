@@ -55,6 +55,9 @@ other = "Исходный код"
 [instead-osx]
 other = "Версия для OSX"
 
+[instead-android]
+other = "Версия для Android"
+
 [tagged-with]
 other = "тег(и)"
 
