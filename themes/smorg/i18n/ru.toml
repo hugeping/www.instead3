@@ -53,7 +53,7 @@ other = "PPA репозиторий для Ubuntu"
 other = "Исходный код"
 
 [instead-osx]
-other = "Версия для OSX"
+other = "Версия для OS X"
 
 [instead-android]
 other = "Версия для Android"
