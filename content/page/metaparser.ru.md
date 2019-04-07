@@ -31,6 +31,7 @@ __МЕТАПАСРЕР3__ (далее, МП3) -- [модуль](https://github.c
 
 ## Материалы
 
+- [Онлайн каталог проекта МЕТАПАРСЕР](https://gl00my.github.io/metaparser.www/)
 - [Статья "Другой Марс: парсер в 2018 году"](https://gamin.me/posts/19616)
 - [Игра Другой Марс на itch.io](https://instead.itch.io/mars)
 - [Статья "Метель: что тебя ждёт за снежной пеленой?"](https://dtf.ru/indie/40760-metel-chto-tebya-zhdet-za-snezhnoy-pelenoy)
