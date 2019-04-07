@@ -1,5 +1,6 @@
 DefaultContentLanguage = "ru"
-baseURL = "https://instead-hub.github.io/"
+baseURL = "/"
+#https://instead-hub.github.io/"
 copyright = "&copy; 2009-2019"
 enableGitInfo = false
 languageCode = "en-us"
