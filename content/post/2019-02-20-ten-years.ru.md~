@@ -1,0 +1,13 @@
+---
+layout: post
+title: Форум переехал
+date: 2019-02-19 9:00:00
+disqus: y
+share: y
+---
+На [http://instead.syscall.ru](http://instead.syscall.ru) единственной площадкой для общения [остается клуб](http://club.syscall.ru)
+
+Конечно, баги INSTEAD можно будет обсуждать на новом форуме, но правильнее всего (чтобы гарантированно получить реакцию) -- писать их на [github здесь](https://github.com/instead-hub/instead/issues) Это официальный репозиторий с кодом.
+Также, официальная поддержка осуществляется на [gitter](https://gitter.im/instead-hub/instead).
+
+До связи!
