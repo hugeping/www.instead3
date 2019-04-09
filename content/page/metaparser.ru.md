@@ -40,5 +40,6 @@ __МЕТАПАСРЕР3__ (далее, МП3) -- [модуль](https://github.c
 
 ## Стабильные версии
 
-- [Версия 1.3](http://instead.syscall.ru/instead/metaparser/metaparser-1.3.zip)
+- [Версия 1.4 (lua)](http://instead.syscall.ru/instead/metaparser/metaparser-1.4.zip)
+- [МЕТАПАРСЕР-js 1.0 (запуск ваших игр в веб)](https://github.com/gl00my/metaparser-js/releases/download/1.0/metaparser-js-1.0.zip)
 - [Документация в PDF](http://club.syscall.ru/s/download//metaparser3-ru.pdf)
