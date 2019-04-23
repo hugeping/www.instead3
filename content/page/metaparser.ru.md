@@ -35,12 +35,11 @@ __МЕТАПАСРЕР3__ (далее, МП3) -- [модуль](https://github.c
 - [Статья "Другой Марс: парсер в 2018 году"](https://gamin.me/posts/19616)
 - [Игра Другой Марс на itch.io](https://instead.itch.io/mars)
 - [Статья "Метель: что тебя ждёт за снежной пеленой?"](https://dtf.ru/indie/40760-metel-chto-tebya-zhdet-za-snezhnoy-pelenoy)
-- [Документация](https://github.com/instead-hub/stead3-modules/blob/master/metaparser/doc/manual-ru.md)
-- [Исходный код](https://github.com/instead-hub/stead3-modules/tree/master/metaparser)
+- [Документация](https://github.com/instead-hub/metaparser/blob/master/doc/manual-ru.md)
+- [Исходный код](https://github.com/instead-hub/metaparser)
 
 ## Стабильные версии
 
 - [Версия 1.5](https://github.com/instead-hub/metaparser/releases/download/1.5/metaparser-1.5.zip)
 - [МЕТАПАРСЕР-js 1.5](https://github.com/gl00my/metaparser-js/releases/download/1.5/metaparser-js-1.5.zip)
 - [Документация в PDF](http://club.syscall.ru/s/download/metaparser3-ru.pdf)
-- [Исходный код](https://github.com/instead-hub/metaparser)
