@@ -11,7 +11,7 @@ author: true-grue
 
  <!-- pagebreak -->
 
-![Описание изображения](wander.png)
+![Описание изображения](article/wander.png)
 
 ## Питер Лэнгстон
 
