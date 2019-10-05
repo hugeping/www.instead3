@@ -40,6 +40,6 @@ __МЕТАПАСРЕР3__ (далее, МП3) -- [модуль](https://github.c
 
 ## Стабильные версии
 
-- [Версия 1.5](https://github.com/instead-hub/metaparser/releases/download/1.5/metaparser-1.5.zip)
-- [МЕТАПАРСЕР-js 1.5](https://github.com/gl00my/metaparser-js/releases/download/1.5/metaparser-js-1.5.zip)
+- [Версия 1.6](https://github.com/instead-hub/metaparser/releases/download/1.6/metaparser-1.6.zip)
+- [МЕТАПАРСЕР-js 1.6](https://github.com/gl00my/metaparser-js/releases/download/1.6/metaparser-js-1.6.zip)
 - [Документация в PDF](http://club.syscall.ru/s/download/metaparser3-ru.pdf)
