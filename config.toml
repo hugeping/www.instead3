@@ -1,7 +1,7 @@
 DefaultContentLanguage = "ru"
 baseURL = "/"
 #https://instead-hub.github.io/"
-copyright = "&copy; 2009-2019"
+copyright = "&copy; 2009-2020"
 enableGitInfo = false
 languageCode = "en-us"
 paginate = 4
@@ -41,7 +41,7 @@ subfooter = "Автор <a href=\"http://syscall.ru/\">Петр Косых</a>"
 [mediaTypes]
 
 [mediaTypes."application/atom"]
-suffix = "xml"
+suffixes = [ "xml" ]
 
 [menu]
 
@@ -88,3 +88,6 @@ subfooter = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/soluti
 logo = "url to logo image"
 name = "Name of organization or person"
 type = "Organization"
+
+[markup.goldmark.renderer]
+unsafe= true

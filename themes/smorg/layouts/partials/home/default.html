@@ -19,7 +19,7 @@
 						<div class="column">
 							<h3 class="subtitle has-text-primary is-marginless">{{ i18n "Posts" }}</h3>
 							<ul>
-							{{ range first 5 (where .Data.Pages "Section" "post") }}
+							{{ range first 5 (where .Site.RegularPages "Section" "post") }}
 							<li><a href="{{.Permalink}}"><span class="icon">✎</span>{{ .Title }}</a></li>
 							{{ end }}
 							<li><a href="{{ "post/" | absLangURL}}">{{ i18n "More" }}<span class="icon">➤</span></a></li>
@@ -29,7 +29,7 @@
 						<div class="column">
 							<h3 class="subtitle has-text-priimary is-marginless">{{ i18n "Articles" }}</h3>
 							<ul>
-							{{ range first 5 (where .Data.Pages "Section" "article") }}
+							{{ range first 5 (where .Site.RegularPages "Section" "article") }}
 							<li><a href="{{.Permalink}}"><span class="icon">※</span>{{ .Title }}</a></li>
 							{{ end }}
 							<li><a href="{{ "article/" | absLangURL }}">{{ i18n "More" }}<span class="icon">➤</span></a></li>
@@ -39,7 +39,7 @@
 						<div class="column">
 							<h3 class="subtitle has-text-priimary is-marginless">{{ i18n "Pages" }}</h3>
 							<ul>
-							{{ range first 5 (where .Data.Pages "Section" "page") }}
+							{{ range first 5 (where .Site.RegularPages "Section" "page") }}
 							<li><a href="{{.Permalink}}"><span class="icon">※</span>{{ .Title }}</a></li>
 							{{ end }}
 							<li><a href="{{ "page/" | absLangURL }}">{{ i18n "More" }}<span class="icon">➤</span></a></li>
@@ -49,37 +49,28 @@
 					</div>
 
 				<div class="column is-8 is-offset-2" align="left">
-				{{ range .Data.Pages }}
-				{{ if eq .Title "About" }}
+				{{ with .GetPage "/about" }}
 					<article class="content" id="about">
 					{{.Content}}
 					</article>
 				{{ end }}
-				{{ end }}
 				<hr/>
-				{{ range .Data.Pages }}
-				{{ if eq .Title "Download" }}
+				{{ with .GetPage "/download" }}
 					<article class="content" id="download">
 					{{.Content}}
 					</article>
 				{{ end }}
-				{{ end }}
-
 				<hr/>
-				{{ range .Data.Pages }}
-				{{ if eq .Title "Documentation" }}
+				{{ with .GetPage "/doc" }}
 					<article class="content" id="doc">
 					{{.Content}}
 					</article>
 				{{ end }}
-				{{ end }}
 				<hr/>
-				{{ range .Data.Pages }}
-				{{ if eq .Title "Contact" }}
+				{{ with .GetPage "/contact" }}
 					<article class="content" id="contact">
 					{{.Content}}
 					</article>
-					{{ end }}
 				{{ end }}
 				</div>
 
