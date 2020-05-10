@@ -44,6 +44,9 @@ other = "INSTEAD on Android Market"
 [instead-ubuntu]
 other = "PPA repository for Ubuntu"
 
+[instead-opensuse]
+other = "Repository for openSUSE"
+
 [instead-sources]
 other = "Sources"
 
