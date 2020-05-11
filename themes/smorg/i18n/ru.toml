@@ -49,6 +49,9 @@ other = "INSTEAD на Android Market"
 [instead-ubuntu]
 other = "PPA репозиторий для Ubuntu"
 
+[instead-opensuse]
+other = "Репозиторий для openSUSE"
+
 [instead-sources]
 other = "Исходный код"
 
