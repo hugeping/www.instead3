@@ -18,9 +18,6 @@ disqus: y
 - std.game - игры INSTEAD;
 - std.prog - программирование игр в INSTEAD;
 - std.tech - технические вопросы INSTEAD;
-- std.bugs - ошибки в INSTEAD.
-
-Эха std.club транслируется в [канал телеграм](http://t.me/insteadclub)
 
 ## Правила разметки
 
@@ -46,9 +43,7 @@ dprint("hello world!")
 ```
 Это открытая часть сообщения.
 
-%%spoiler%%
-
-А это то, что попадет в спойлер base64
+@spoler: А это то, что попадет в спойлер base64
 ```
 
 ## Настройки цезия
@@ -56,8 +51,8 @@ dprint("hello world!")
 Интерфейс цезия напомнинает GoldEd (для тех, кто в курсе).
 
 ```
-nodename instead
-node http://ii.club.syscall.ru/
+nodename club
+node http://club.syscall.ru/
 
 auth $AUTHSTR$
 to $NAME$
@@ -66,8 +61,8 @@ echo std.club Клуб
 echo std.game Игры
 echo std.prog Программирование
 echo std.tech Технологии
-echo std.bugs Баги
 ```
+
 $AUTHSTR$ -- тут вы вводите ту строку, которую видите в authstr: по адресу: [http://club.syscall.ru/profile](http://club.syscall.ru/profile) (после
 регистрации)
 
