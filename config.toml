@@ -1,7 +1,7 @@
 DefaultContentLanguage = "ru"
 baseURL = "/"
 #https://instead-hub.github.io/"
-copyright = "&copy; 2009-2020"
+copyright = "&copy; 2009-2021"
 enableGitInfo = false
 languageCode = "en-us"
 paginate = 4
