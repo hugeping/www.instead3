@@ -25,7 +25,7 @@ description = ""
 footer = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/instead-hub/instead\">github.com/instead-hub/instead</a>"
 fullname = "Simple Text Adventures, The Interpreter"
 logotype = "<span class=\"has-text-weight-bold\">IN<span class=\"has-text-danger\">STEAD</span>3</span>"
-subfooter = "Author <a href=\"http://syscall.ru/\">Peter Kosyh</a>"
+subfooter = "Author <a href=\"https://hugeping.ru/\">Peter Kosyh</a>"
 
 [languages.ru]
 title = "INSTEAD"
@@ -36,7 +36,7 @@ description = ""
 footer = "<i class=\"fab fa-github\"></i> <a href=\"https://github.com/instead-hub/instead\">github.com/instead-hub/instead</a>"
 fullname = "Интерпретатор текстографических приключений"
 logotype = "<span class=\"has-text-weight-bold\">IN<span class=\"has-text-danger\">STEAD</span>3</span>"
-subfooter = "Автор <a href=\"http://syscall.ru/\">Петр Косых</a>"
+subfooter = "Автор <a href=\"https://hugeping.ru/\">Петр Косых</a>"
 
 [mediaTypes]
 

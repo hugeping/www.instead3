@@ -6,7 +6,7 @@ date: 2015-04-01 00:00:00
 disqus: y
 ---
 1 апреля 2015 г.  
-http://instead.syscall.ru
+http://instead.hugeping.ru
 
 ------------------------------------------------------------
 
@@ -21,7 +21,7 @@ http://instead.syscall.ru
 содержит никаких розыгрышей! 
 
 Еще хочу сказать, что выпуски теперь доступны в виде обычных
-txt  файлов  по  адресу:  http://instead.syscall.ru/printead
+txt  файлов  по  адресу:  http://instead.hugeping.ru/printead
 
 _Петр Косых_
 

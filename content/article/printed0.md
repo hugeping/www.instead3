@@ -8,7 +8,7 @@ disqus: y
 ---
 
 1 февраля 2015 г.  
-http://instead.syscall.ru
+http://instead.hugeping.ru
 
 ------------------------------------------------------------
 

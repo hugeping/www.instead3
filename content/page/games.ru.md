@@ -11,7 +11,6 @@ disqus: y
 
 - [Некоторые игры на itch от автора INSTEAD](http://instead.itch.io)
 - [Репозиторий instead-games.ru](http://instead-games.ru)
-- [Личная страница автора INSTEAD](http://syscall.ru/games)
 
 ## Как запускать?
 
