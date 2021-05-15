@@ -44,3 +44,4 @@ __МЕТАПАРСЕР3__ (далее, МП3) -- [модуль](https://github.c
 - [Версия 2.0](https://github.com/instead-hub/metaparser/releases/download/2.0/metaparser-2.0.zip)
 - [МЕТАПАРСЕР-js 2.0](https://github.com/gl00my/metaparser-js/releases/download/2.0/metaparser-js-2.0.zip)
 - [Документация в PDF](https://github.com/instead-hub/metaparser/releases/download/2.0/manual-ru.pdf)
+- [Консольная минимальная версия](https://github.com/instead-hub/instead-cli/releases)
