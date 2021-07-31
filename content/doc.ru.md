@@ -11,6 +11,6 @@ date: 2017-03-09T13:23:28+08:00
 каталоге (doc/).
 
 * [Документация](https://github.com/instead-hub/instead/blob/master/doc/stead3-ru.md)
-* [Документация (pdf)](https://github.com/instead-hub/instead/releases/download/3.3.3/stead3-ru.pdf)
+* [Документация (pdf)](https://github.com/instead-hub/instead/releases/download/3.3.4/stead3-ru.pdf)
 * [Чат в gitter](https://gitter.im/instead-hub/instead)
 * [Багтрекер](https://github.com/instead-hub/instead/issues)
