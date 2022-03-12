@@ -3,9 +3,9 @@ title: "Contact"
 date: 2017-03-09T13:23:28+08:00
 ---
 
-## Donations
+## Contacts
 
-If you like project, you may transfer some money. Thank you!
+- https://t.me/insteadtalk - Telegram
+- https://discord.gg/9znH5tCf - Discord
+- irc.oftc.net #instead - irc
 
-* [Paypal](https://paypal.me/hugeping)
-* [Я-Деньги](https://yoomoney.ru/to/41001612955830)
