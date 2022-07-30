@@ -52,7 +52,7 @@ dprint("hello world!")
 
 ```
 nodename club
-node http://club.syscall.ru/
+node http://club.hugeping.ru/
 
 auth $AUTHSTR$
 to $NAME$
@@ -63,7 +63,7 @@ echo std.prog Программирование
 echo std.tech Технологии
 ```
 
-$AUTHSTR$ -- тут вы вводите ту строку, которую видите в authstr: по адресу: [http://club.syscall.ru/profile](http://club.syscall.ru/profile) (после
+$AUTHSTR$ -- тут вы вводите ту строку, которую видите в authstr: по адресу: [http://club.hugeping.ru/profile](http://club.hugeping.ru/profile) (после
 регистрации)
 
 $NAME$ -- ваш ник при регистрации.
