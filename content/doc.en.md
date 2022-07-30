@@ -11,5 +11,5 @@ machine-translated version. If you can, you may help us to translate it.
 
 * [Documentation](https://github.com/instead-hub/instead/blob/master/doc/stead3-en.md)
 * [Documentation (pdf)](https://github.com/instead-hub/instead/releases/download/3.4.0/stead3-en.pdf)
-* [Chat on gitter](https://gitter.im/instead-hub/instead)
+* [Chat](https://kiwiirc.com/nextclient/irc.oftc.net/instead)
 * [Bugtracker](https://github.com/instead-hub/instead/issues)
