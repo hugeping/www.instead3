@@ -41,7 +41,7 @@ __МЕТАПАРСЕР3__ (далее, МП3) -- [модуль](https://github.c
 
 ## Стабильные версии
 
-- [Версия 2.5](https://github.com/instead-hub/metaparser/releases/download/2.5/metaparser-2.5.zip)
+- [Версия 2.5](https://github.com/instead-hub/metaparser/releases/download/2.5/metaparser.zip)
 - [МЕТАПАРСЕР-js 2.5](https://github.com/gl00my/metaparser-js/releases/download/2.5/metaparser-js.zip)
 - [Документация в PDF](https://github.com/instead-hub/metaparser/releases/download/2.5/manual-ru.pdf)
 - [Re:instead -- минималистичный плеер](https://github.com/instead-hub/reinstead)
