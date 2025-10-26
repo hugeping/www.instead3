@@ -12,11 +12,6 @@
 	{{- block "head-custom" . -}}
 		{{- partial "head-custom.html" . -}}
 	{{- end -}}
-	{{- block "js-head" . -}}
-		{{- if not .Site.BuildDrafts }}
-			{{- template "_internal/google_analytics_async.html" . }}
-		{{- end }}
-	{{- end -}}
 </head>
 <body>
 	{{- block "nav" . }}
