@@ -6,7 +6,7 @@ date: 2017-03-09T13:23:28+08:00
 ## Сообщество
 
 - https://t.me/insteadtalk - Telegram
-- ircs://spline-online.ru:6697/#instead - irc
+- [ircs://spline-online.ru:6697/#instead](ircs://spline-online.ru:6697/#instead) - irc
 
 ## Поддержи проект
 
