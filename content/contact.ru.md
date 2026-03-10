@@ -6,7 +6,7 @@ date: 2017-03-09T13:23:28+08:00
 ## Сообщество
 
 - https://t.me/insteadtalk - Telegram
-- [irc.oftc.net #instead](https://kiwiirc.com/nextclient/irc.oftc.net/instead) - irc
+- ircs://spline-online.ru:6697/#instead - irc
 
 ## Поддержи проект
 
